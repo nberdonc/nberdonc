@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there!! My name is Nuria 👋
 
-<!--
-**nberdonc/nberdonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love riddles and logic games! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a webapp for a University professor using React, Express, Node, MongoDB
+- 🌱 I’m currently learning testing with Jest and Enzyme
+- ⚡ Fun fact: I left everything for coding
+- 📫 How to reach me: www.linkedin.com/in/nuria-berdonces-albareda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Stay tuned 💘
+
+
